@@ -1,2 +1,22 @@
 branch = time line
 Commit changes = Descrição do arquivo
+@ (em inglês) = dentro, inserido
+PWD = mostra todo caminho da pasta
+~ = abreviação de pasta do usuário
+clear = limpa a tela
+Seta p cima mostra os comandos anteriores
+ls = mostra os arquivos da pasta atual
+ls -a = mostra arquivos ocultos
+ls -l = informações detalhadas da pasta
+ls -h = informações detalhadas da pasta (linguagem humana)
+cd .. = retorna um nivel
+
+drwx-xr-x
+d - pasta
+" " - arquivo
+l - atalho
+r - read - leitura
+w - write - escrita
+x - excute - executa
+
+rwx-rwx-rwx - vc-grupo-outros
